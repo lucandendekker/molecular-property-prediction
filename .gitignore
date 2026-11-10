@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.env
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Course data, trained models and submissions are never published
+data/
+predictions/
+*.csv
+*.xlsx
+*.parquet
+*.joblib
+*.pkl
+*.png
