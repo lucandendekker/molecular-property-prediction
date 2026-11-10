@@ -6,6 +6,10 @@ A Year 1 Block B project by **Lucan den Dekker**, Applied Data Science & AI, Bre
 
 [My portfolio](https://lucandendekker.nl/)
 
+> [!NOTE]
+> **This is everything I am able and permitted to share from this school project.**
+> The course's simulated target values (HOMO, LUMO and stability), the course datasets and the models trained on them remain private at the lecturer's request. What is shared here, with the lecturer's permission, is my own code, my approach and the final Kaggle results. See [The data and what is not published](#the-data-and-what-is-not-published).
+
 ![Molecular property prediction overview](images/project-overview.svg)
 
 ## The problem: which molecules are worth testing?
